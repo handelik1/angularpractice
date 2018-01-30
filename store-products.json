@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Dodecahedron",
+    "price": 2.95,
+    "description": "A cool gem of 12 sides",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": [
+      {
+        "full": "full.jpg",
+        "thumb":"full_thumb.jpg"
+      }
+    ],
+    "review": [
+      {
+        "stars": 5,
+        "body": "Great gem!",
+        "author": "me@gmail.com"
+      }
+    ]
+  },
+
+  {
+    "name": "Pentahedron",
+    "price": 5.95,
+    "description": "A 5-sided gem",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": [
+      {
+        "full": "full.jpg",
+        "thumb":"full_thumb.jpg"
+      }
+    ],
+    "review": [
+      {
+        "stars": 5,
+        "body": "Such amazing gem!",
+        "author": "me@gmail.com"
+      }
+    ]
+  }
+
+]
